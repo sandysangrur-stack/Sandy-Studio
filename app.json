@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Sandy Studio",
+    "slug": "sandy-studio",
+    "scheme": "sandystudio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router", "expo-print"],
+    "web": { "bundler": "metro" }
+  }
+}
